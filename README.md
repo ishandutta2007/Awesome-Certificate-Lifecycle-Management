@@ -48,9 +48,9 @@ Below is a comparative breakdown of commercial and SaaS certificate lifecycle ma
 
 ## 💻 Open-Source GitHub Projects 🛠️
 
-Certificate lifecycle management boasts a **mature, production-proven open-source ecosystem**. Below are notable open-source repositories sorted by **GitHub Star Count** in descending order.
+Certificate lifecycle management boasts a **mature, production-proven open-source ecosystem**. Below are notable open-source repositories sorted by **GitHub Stars_Count** in descending order.
 
-| Repository 📦 | Stars ⭐ | Primary License 📜 | Category & Description 🎯 |
+| Repository 📦 | GitHub_Stars ⭐ | Primary License 📜 | Category & Description 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** | [<img src="https://img.shields.io/github/stars/FiloSottile/mkcert?style=social&color=white" alt="FiloSottile/mkcert Stars"/>](https://github.com/FiloSottile/mkcert/stargazers) | BSD-3-Clause | **Local Dev TLS**: Zero-config tool for making locally-trusted development certificates with custom CAs. |
 | **[cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)** | [<img src="https://img.shields.io/github/stars/cert-manager/cert-manager?style=social&color=white" alt="cert-manager Stars"/>](https://github.com/cert-manager/cert-manager/stargazers) | Apache-2.0 | **Kubernetes CLM**: De facto standard for automated TLS certificate issuance and renewal in Kubernetes clusters. |
